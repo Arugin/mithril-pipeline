@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'mithril-pipeline/version'
 
 Gem::Specification.new do |gem|
-  gem.name        = 'em-statsd-ruby'
+  gem.name        = 'mithril-pipeline'
   gem.version     = MithrilPipeline::VERSION
   gem.homepage    = 'https://github.com/Arugin/mithril-pipeline'
 
