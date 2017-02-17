@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    mithril-pipeline (0.2.5)
+    mithril-pipeline (1.0.0)
 
 GEM
   remote: http://rubygems.org/
